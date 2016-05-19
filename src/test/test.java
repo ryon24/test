@@ -7,6 +7,9 @@ public class test {
 		
 		System.out.println("titi");
 		System.out.println("ttotoi");
+		System.out.println("titi");
+		System.out.println("titi");
+		System.out.println("titi");
 	}
 
 }
